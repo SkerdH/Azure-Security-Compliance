@@ -14,57 +14,47 @@
             background-color: #f7f7f7;
             color: #333;
         }
-
         h1,
         h2,
         h3 {
             color: #004080;
         }
-
         h1 {
             font-size: 2em;
             margin-bottom: 10px;
         }
-
         h2 {
             margin-top: 30px;
             font-size: 1.5em;
             border-bottom: 2px solid #004080;
             padding-bottom: 5px;
         }
-
         h3 {
             margin-top: 20px;
             font-size: 1.25em;
         }
-
         p {
             margin-bottom: 15px;
         }
-
         ul {
             list-style-type: square;
             margin-left: 20px;
         }
-
         code {
             background-color: #e8e8e8;
             padding: 2px 6px;
             border-radius: 4px;
         }
-
         .example-image {
             margin: 20px 0;
             text-align: center;
         }
-
         .example-image img {
             max-width: 100%;
             height: auto;
             border: 1px solid #ccc;
             border-radius: 8px;
         }
-
         .note {
             background-color: #eef5ff;
             padding: 10px;
@@ -76,10 +66,8 @@
 
 <body>
     <h1>Azure Security Management and Compliance Framework</h1>
-
     <h2>Project Overview</h2>
     <p>This project involves creating a comprehensive security management and compliance framework within Azure. Advanced security controls were implemented, continuous monitoring for threats was set up, responses were automated, and compliance with industry standards was ensured—all key areas covered in the AZ-500 exam. This framework enhances security while streamlining operations and governance in a cloud environment.</p>
-
     <h2>1. Identity and Access Management (IAM)</h2>
     <h3>Objective:</h3>
     <p>Identities and access permissions in Azure were securely managed to protect sensitive information and prevent unauthorized access.</p>
@@ -109,12 +97,10 @@
             </ul>
         </li>
     </ul>
-
     <div class="example-image">
         <p><em>Example Image: A flowchart illustrating the implementation of Conditional Access policies with Azure AD, highlighting different decision points based on user risk levels.</em></p>
         <!-- Example Image would go here -->
     </div>
-
     <h2>2. Securing the Network Infrastructure</h2>
     <h3>Objective:</h3>
     <p>Network resources were protected using advanced security features and best practices to mitigate threats and ensure data confidentiality and integrity.</p>
@@ -142,12 +128,10 @@
             </ul>
         </li>
     </ul>
-
     <div class="example-image">
         <p><em>Example Image: A network diagram showing Azure Firewall, NSGs, ASGs, and DDoS Protection in action, with data flow paths and security controls highlighted.</em></p>
         <!-- Example Image would go here -->
     </div>
-
     <h2>3. Managing and Monitoring Security Operations</h2>
     <h3>Objective:</h3>
     <p>Tools and processes for effective security operations, continuous monitoring, and rapid response to security incidents were implemented.</p>
@@ -176,12 +160,10 @@
             </ul>
         </li>
     </ul>
-
     <div class="example-image">
         <p><em>Example Image: A screenshot of the Azure Sentinel dashboard showing active threats, alerts, and the integration of threat intelligence feeds.</em></p>
         <!-- Example Image would go here -->
     </div>
-
     <h2>4. Automating Security Responses</h2>
     <h3>Objective:</h3>
     <p>Automated solutions were developed to respond to security incidents quickly and efficiently, reducing human intervention and error.</p>
@@ -209,12 +191,10 @@
             </ul>
         </li>
     </ul>
-
     <div class="example-image">
         <p><em>Example Image: A flowchart showing how Logic Apps, Azure Sentinel, and Automation work together to handle a security incident, from detection to resolution.</em></p>
         <!-- Example Image would go here -->
     </div>
-
     <h2>5. Compliance and Governance</h2>
     <h3>Objective:</h3>
     <p>Azure resources were ensured to comply with organizational policies and industry regulations through proper governance and auditing.</p>
@@ -242,7 +222,6 @@
             </ul>
         </li>
     </ul>
-
     <div class="example-image">
         <p><em>Example Image: A dashboard view of Azure Policy showing compliance status, policy definitions, and the number of resources affected by each policy.</em></p>
         <!-- Example Image would go here -->
@@ -250,3 +229,4 @@
 </body>
 
 </html>
+
